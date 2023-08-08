@@ -1,2 +1,2 @@
 # ReminderApp
-UIKit Reminder APp
+UIKit Reminder App
